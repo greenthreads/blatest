@@ -20,3 +20,5 @@ terraform {}
 locals {}
 
 resource "aws_ami" {}
+
+resource "aws_ami" {}
